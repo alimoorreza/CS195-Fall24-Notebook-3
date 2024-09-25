@@ -28,7 +28,7 @@ You need to create a Colab notebook starting from here [_Notebook_3_starter note
 | 4: ResNet50                      |               |               |               |
 | 5: ResNet152                     |               |               |               |
 
-📉 📊 📈 💹 You also should include at least **3 visualizations (graphs)** of tuning parameters eg, _loss curves_, _accuracy curves_, _confusion matrices_.
+📉 📊 📈 💹 You also should include **visualizations (graphs)** of tuning parameters eg, _loss curves_, _accuracy curves_, _confusion matrices_.
 
 3.  **Conclusions** [0.5 point]: What insights/recommendations do you have? What did you find that was interesting? Which model was your best model? Why do you think models are giving excellent results from the first epoch? Do you need too many epochs to find your best? Why or why not? In general, I want a discussion of your experiment, the results, and what they mean.
 
