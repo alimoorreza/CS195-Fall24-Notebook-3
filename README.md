@@ -40,7 +40,7 @@ You need to create a Colab notebook starting from here [_Notebook_3_starter note
 - **VGGNet**
 - **ResNet18**
 - **ResNet50**
-- **ResNet50**
+- **ResNet152**
 
 
 ### Rubric:
