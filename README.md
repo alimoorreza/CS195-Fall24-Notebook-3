@@ -4,7 +4,7 @@
 <b>Due</b>: Wednesday, October 2nd, 2024
 
 For this assignment, you'll be using the `underwater animal dataset (uws_v1)` that's been provided. You can also find it on Blackboard for the CS195 course. This is a multi-class classification task, which means it involves sorting different types of underwater animals like *dolphins, polar bears, turtles, sharks,* and *whales*. Your goal is to train a deep neural network using this dataset, so it can predict which species an animal belongs to when given a new image.
-![Underwater Animal Categories](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/etc/underwater_animals.png)
+![Underwater Animal Categories](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/etc/uws_v1_samples.png)
 
 
 ## Notebook:
