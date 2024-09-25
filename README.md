@@ -8,11 +8,11 @@ For this assignment, you'll be using the `underwater animal dataset (uws_v1)` th
 
 
 ## Notebook:
-You should use this [_Notebook_3_starter notebook_](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/notebook3_starter.ipynb). It contains the most crucial part, i.e., the code for three CNNs: AlexNet, VGGNet, and ResNet. 
+You should use this [_Notebook_3_starter notebook_](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/cs195_notebook3_starter.ipynb). It contains the most crucial part, i.e., the code for three CNNs: AlexNet, VGGNet, and ResNet. 
 <!--For other machine learning functions, you can borrow them from previous notebooks, such as [CNN finetuning](https://github.com/alimoorreza/CS167-fall24-notes/blob/main/cs195_cnn_finetuning.ipynb).-->
 
 ## Expectations: ☑️
-You need to create a Colab notebook starting from here [_Notebook_3_starter notebook_](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/notebook3_starter.ipynb), then add your code and results to document your experiment. Most importantly, you will use text cells in the notebook to explain what you did, interpret the results, and make your recommendations. The written markdown protions must include the following things:
+You need to create a Colab notebook starting from here [_Notebook_3_starter notebook_](https://github.com/alimoorreza/CS195-Fall24-Notebook-3/blob/main/cs195_notebook3_starter.ipynb), then add your code and results to document your experiment. Most importantly, you will use text cells in the notebook to explain what you did, interpret the results, and make your recommendations. The written markdown protions must include the following things:
 1. **Data, Evaluation Metric, Optimizer, Hyper-parameters** [2 points]: Write the names and values for the following: 
     - __Total number of samples__: total number of examples you have in the dataset
     - __Total number of training samples__: total number of examples you have in the training split of the dataset
